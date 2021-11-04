@@ -12,8 +12,8 @@ jobs:
           run:  g++ -Wall tablazatosztaly.cpp main.cpp -o main
         - name: Run input-output test 
           run: bash ./run_test.sh main output.txt
-        ##- name: Check results
-        ##  run: diff ./output.txt ./good_output.txt
+        - name: Check results
+          run: diff ./output.txt ./good_output.txt
         - name: Upload generated output
           uses: actions/upload-artifact@v2
           with:
