@@ -7,7 +7,6 @@
 
 Parancs: add 6 cols
 
-
 -----------------
 | |A|B|C|D|E|F|G|
 -----------------
@@ -15,7 +14,6 @@ Parancs: add 6 cols
 -----------------
 
 Parancs: add 7 rows
-
 
 -----------------
 | |A|B|C|D|E|F|G|
@@ -38,7 +36,6 @@ Parancs: add 7 rows
 -----------------
 
 Parancs: edit a1 alma
-
 
 --------------------
 | |A   |B|C|D|E|F|G|
