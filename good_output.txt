@@ -59,7 +59,6 @@ Parancs: edit a1 alma
 
 Parancs: edit b2 banan
 
-
 ------------------------
 | |A   |B    |C|D|E|F|G|
 ------------------------
@@ -82,7 +81,6 @@ Parancs: edit b2 banan
 
 Parancs: edit d3 kokusz
 
-
 -----------------------------
 | |A   |B    |C|D     |E|F|G|
 -----------------------------
@@ -104,7 +102,6 @@ Parancs: edit d3 kokusz
 -----------------------------
 
 Parancs: exit
-
 
 -----------------------------
 | |A   |B    |C|D     |E|F|G|
