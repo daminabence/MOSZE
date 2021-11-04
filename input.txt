@@ -1,4 +1,6 @@
-add 4 rows
-add 4 cols
-edit d2 majom
+add 6 cols
+add 7 rows
+edit a1 alma
+edit b2 banan
+edit d3 kokusz
 exit
