@@ -1,0 +1,5 @@
+add 4 rows
+add 4 cols
+edit d2 majom
+exit
+
