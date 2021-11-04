@@ -5,7 +5,7 @@
 |1| |
 -----
 
-Parancs: add 6 cols
+Parancs:
 
 -----------------
 | |A|B|C|D|E|F|G|
@@ -13,7 +13,7 @@ Parancs: add 6 cols
 |1| | | | | | | |
 -----------------
 
-Parancs: add 7 rows
+Parancs:
 
 -----------------
 | |A|B|C|D|E|F|G|
@@ -35,7 +35,7 @@ Parancs: add 7 rows
 |8| | | | | | | |
 -----------------
 
-Parancs: edit a1 alma
+Parancs:
 
 --------------------
 | |A   |B|C|D|E|F|G|
@@ -57,7 +57,7 @@ Parancs: edit a1 alma
 |8|    | | | | | | |
 --------------------
 
-Parancs: edit a2 banan
+Parancs:
 
 ------------------------
 | |A   |B    |C|D|E|F|G|
@@ -79,7 +79,7 @@ Parancs: edit a2 banan
 |8|    |     | | | | | |
 ------------------------
 
-Parancs: edit d3 kokusz
+Parancs:
 
 -----------------------------
 | |A   |B    |C|D     |E|F|G|
@@ -101,7 +101,7 @@ Parancs: edit d3 kokusz
 |8|    |     | |      | | | |
 -----------------------------
 
-Parancs: exit
+Parancs:
 
 -----------------------------
 | |A   |B    |C|D     |E|F|G|
