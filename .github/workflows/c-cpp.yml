@@ -1,0 +1,21 @@
+name: workflow
+
+on:
+  push
+
+jobs:
+    build_and_test:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - name: Build the application
+          run:  g++ -Wall tablazatosztaly.cpp main.cpp -o main
+        - name: Run input-output test 
+          run: bash ./run_test.sh main output.txt
+        - name: Check results
+          run: diff ./output.txt ./good_output.txt
+        - name: Upload generated output
+          uses: actions/upload-artifact@v2
+          with:
+            name: output
+            path: output.txt
