@@ -5,7 +5,7 @@
 |1| |
 -----
 
-Parancs:
+Parancs: add 6 cols
 
 -----------------
 | |A|B|C|D|E|F|G|
